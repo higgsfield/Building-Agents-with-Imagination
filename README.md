@@ -39,5 +39,5 @@ The I2A learns to combine information from its model-free and imagination-augmen
   -  World Models [[arxiv]](https://worldmodels.github.io/) [[https://github.com/AppliedDataSciencePartners/WorldModels]](https://github.com/AppliedDataSciencePartners/WorldModels)
   - Recall Traces: Backtracking Models for Efficient Reinforcement Learning [[arxiv]](https://arxiv.org/pdf/1804.00379.pdf)
   - [[Learning by Playing – Solving Sparse Reward Tasks from Scratch ]](https://arxiv.org/abs/1802.10567)  [[https://zhuanlan.zhihu.com/p/34222231]](https://zhuanlan.zhihu.com/p/34222231)  [[https://github.com/HugoCMU/pySACQ]](https://github.com/HugoCMU/pySACQ)
-  - [[Hindsight experience replay]](https://arxiv.org/abs/1707.01495)
+  - [[Hindsight experience replay]](https://arxiv.org/abs/1707.01495) [[https://github.com/openai/baselines/tree/master/baselines/her]](https://github.com/openai/baselines/tree/master/baselines/her)
   - [[https://github.com/pathak22/zeroshot-imitation]](https://github.com/pathak22/zeroshot-imitation)
