@@ -41,3 +41,6 @@ The I2A learns to combine information from its model-free and imagination-augmen
   - [[Learning by Playing – Solving Sparse Reward Tasks from Scratch ]](https://arxiv.org/abs/1802.10567)  [[https://zhuanlan.zhihu.com/p/34222231]](https://zhuanlan.zhihu.com/p/34222231)  [[https://github.com/HugoCMU/pySACQ]](https://github.com/HugoCMU/pySACQ)
   - [[Hindsight experience replay]](https://arxiv.org/abs/1707.01495) [[https://github.com/openai/baselines/tree/master/baselines/her]](https://github.com/openai/baselines/tree/master/baselines/her)
   - [[https://github.com/pathak22/zeroshot-imitation]](https://github.com/pathak22/zeroshot-imitation)
+  - [[Emergence of Structured Behaviors from Curiosity-Based Intrinsic Motivation]](https://arxiv.org/abs/1802.07461)
+  - [[Learning Awareness Models]](https://arxiv.org/abs/1804.06318)
+  - [[coach]]
