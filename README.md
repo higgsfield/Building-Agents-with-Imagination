@@ -43,4 +43,5 @@ The I2A learns to combine information from its model-free and imagination-augmen
   - [[https://github.com/pathak22/zeroshot-imitation]](https://github.com/pathak22/zeroshot-imitation)
   - [[Emergence of Structured Behaviors from Curiosity-Based Intrinsic Motivation]](https://arxiv.org/abs/1802.07461)
   - [[Learning Awareness Models]](https://arxiv.org/abs/1804.06318)
-  - [[coach]]
+  - [[NervanaSystem coach]](https://github.com/NervanaSystems/coach)
+  - [[Vector-based navigation using grid-like representations in artificial agents]](https://pan.baidu.com/s/1RUzMKQb95qUf5cv6XRsexA)
