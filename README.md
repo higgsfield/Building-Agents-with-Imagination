@@ -45,4 +45,4 @@ The I2A learns to combine information from its model-free and imagination-augmen
   - [[Learning Awareness Models]](https://arxiv.org/abs/1804.06318)
   - [[NervanaSystem coach]](https://github.com/NervanaSystems/coach)
   - [[Vector-based navigation using grid-like representations in artificial agents]](https://pan.baidu.com/s/1RUzMKQb95qUf5cv6XRsexA)
-  - Learning to Navigate in Cities Without a Map [[arxiv]](https://arxiv.org/abs/1804.00168) [[https://zhuanlan.zhihu.com/p/35319354]](https://zhuanlan.zhihu.com/p/35319354)
+  - Learning to Navigate in Cities Without a Map [[arxiv]](https://arxiv.org/abs/1804.00168) [[https://zhuanlan.zhihu.com/p/35319354]](https://zhuanlan.zhihu.com/p/35319354)  [[Emergence of grid-like representations by training recurrent neural networks to perform spatial localization]](https://openreview.net/forum?id=B17JTOe0-)
