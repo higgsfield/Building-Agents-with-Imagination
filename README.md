@@ -35,7 +35,7 @@ The I2A learns to combine information from its model-free and imagination-augmen
   - Schema Networks: Zero-shot Transfer with a Generative Causal Model of Intuitive Physics [[arxiv]](https://arxiv.org/abs/1706.04317)
   - Model-Based Value Expansion for Efficient Model-Free Reinforcement Learning [[arxiv]](https://arxiv.org/pdf/1803.00101v1.pdf)
   - TEMPORAL DIFFERENCE MODELS: MODEL-FREE DEEP RL FOR MODEL-BASED CONTROL [[arxiv]](https://arxiv.org/pdf/1802.09081v1.pdf) [[https://github.com/vitchyr/rlkit]](https://github.com/vitchyr/rlkit)
-  - Universal Planning Networks [[arxiv]](https://arxiv.org/pdf/1804.00645.pdf)
+  - Universal Planning Networks [[arxiv]](https://arxiv.org/abs/1804.00645)
   -  World Models [[arxiv]](https://worldmodels.github.io/) [[https://github.com/AppliedDataSciencePartners/WorldModels]](https://github.com/AppliedDataSciencePartners/WorldModels)
   - Recall Traces: Backtracking Models for Efficient Reinforcement Learning [[arxiv]](https://arxiv.org/pdf/1804.00379.pdf)
   - [[Learning by Playing – Solving Sparse Reward Tasks from Scratch ]](https://arxiv.org/abs/1802.10567)  [[https://zhuanlan.zhihu.com/p/34222231]](https://zhuanlan.zhihu.com/p/34222231)  [[https://github.com/HugoCMU/pySACQ]](https://github.com/HugoCMU/pySACQ)
