@@ -55,4 +55,4 @@ The I2A learns to combine information from its model-free and imagination-augmen
   - META LEARNING SHARED HIERARCHIES (ref by UPN)
   - https://github.com/andyzeng/visual-pushing-grasping
   - https://github.com/hoangminhle/hierarchical_IL_RL
-  
+  - Parametrized Hierarchical Procedures for Neural Programming  http://roydfox.com/category/publications
