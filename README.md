@@ -47,3 +47,8 @@ The I2A learns to combine information from its model-free and imagination-augmen
   - [[Vector-based navigation using grid-like representations in artificial agents]](https://pan.baidu.com/s/1RUzMKQb95qUf5cv6XRsexA)
   - Learning to Navigate in Cities Without a Map [[arxiv]](https://arxiv.org/abs/1804.00168) [[https://zhuanlan.zhihu.com/p/35319354]](https://zhuanlan.zhihu.com/p/35319354)  
   - [[Emergence of grid-like representations by training recurrent neural networks to perform spatial localization]](https://openreview.net/forum?id=B17JTOe0-)
+  - Divide-and-Conquer Reinforcement Learning
+  - META-LEARNING AND UNIVERSALITY:DEEP REPRESENTATIONS AND GRADIENT DESCENT CAN APPROXIMATE ANY LEARNING ALGORITHM
+  - DDCO: Discovery of Deep Continuous Options for Robot Learning from Demonstrations
+  - Imagination Machines: A New Challenge for Artificial Intelligence
+  - Sensorimotor Robot Policy Training using Reinforcement Learning
