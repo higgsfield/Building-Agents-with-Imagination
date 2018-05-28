@@ -53,3 +53,6 @@ The I2A learns to combine information from its model-free and imagination-augmen
   - Imagination Machines: A New Challenge for Artificial Intelligence
   - [Sensorimotor Robot Policy Training using Reinforcement Learning](https://www.diva-portal.org/smash/get/diva2:1208897/FULLTEXT01.pdf)
   - META LEARNING SHARED HIERARCHIES (ref by UPN)
+  - https://github.com/andyzeng/visual-pushing-grasping
+  - https://github.com/hoangminhle/hierarchical_IL_RL
+  
