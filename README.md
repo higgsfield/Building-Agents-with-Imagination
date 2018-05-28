@@ -48,11 +48,14 @@ The I2A learns to combine information from its model-free and imagination-augmen
   - Learning to Navigate in Cities Without a Map [[arxiv]](https://arxiv.org/abs/1804.00168) [[https://zhuanlan.zhihu.com/p/35319354]](https://zhuanlan.zhihu.com/p/35319354)  
   - [[Emergence of grid-like representations by training recurrent neural networks to perform spatial localization]](https://openreview.net/forum?id=B17JTOe0-)
   - Divide-and-Conquer Reinforcement Learning
-  - META-LEARNING AND UNIVERSALITY:DEEP REPRESENTATIONS AND GRADIENT DESCENT CAN APPROXIMATE ANY LEARNING ALGORITHM
+  - Meta-Learning and Universality: Deep Representations and Gradient Descent can Approximate any Learning Algorithm
   - DDCO: Discovery of Deep Continuous Options for Robot Learning from Demonstrations ;  Multi-Level Discovery of Deep Options
   - Imagination Machines: A New Challenge for Artificial Intelligence
   - [Sensorimotor Robot Policy Training using Reinforcement Learning](https://www.diva-portal.org/smash/get/diva2:1208897/FULLTEXT01.pdf)
-  - META LEARNING SHARED HIERARCHIES (ref by UPN)
+  - Meta learning shared hierarchies (ref by UPN)  https://github.com/openai/mlsh
   - https://github.com/andyzeng/visual-pushing-grasping
   - https://github.com/hoangminhle/hierarchical_IL_RL
   - Parametrized Hierarchical Procedures for Neural Programming  http://roydfox.com/category/publications
+  - https://github.com/ray-project/ray/blob/master/examples/carla/a3c_lane_keep.py
+  - Diversity is All You Need: Learning Skills without a Reward Function   https://github.com/haarnoja/sac   https://sites.google.com/view/diayn  Soft Actor-Critic  rlkit TDM https://github.com/vitchyr/rlkit
+  - https://arxiv.org/abs/1805.07917 Evolutionary Reinforcement Learning Shauharda Khadka, Kagan Tumer (Submitted on 21 May 2018)
