@@ -49,6 +49,7 @@ The I2A learns to combine information from its model-free and imagination-augmen
   - [[Emergence of grid-like representations by training recurrent neural networks to perform spatial localization]](https://openreview.net/forum?id=B17JTOe0-)
   - Divide-and-Conquer Reinforcement Learning
   - META-LEARNING AND UNIVERSALITY:DEEP REPRESENTATIONS AND GRADIENT DESCENT CAN APPROXIMATE ANY LEARNING ALGORITHM
-  - DDCO: Discovery of Deep Continuous Options for Robot Learning from Demonstrations
+  - DDCO: Discovery of Deep Continuous Options for Robot Learning from Demonstrations ;  Multi-Level Discovery of Deep Options
   - Imagination Machines: A New Challenge for Artificial Intelligence
-  - Sensorimotor Robot Policy Training using Reinforcement Learning
+  - [Sensorimotor Robot Policy Training using Reinforcement Learning](https://www.diva-portal.org/smash/get/diva2:1208897/FULLTEXT01.pdf)
+  - META LEARNING SHARED HIERARCHIES (ref by UPN)
