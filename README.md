@@ -60,3 +60,4 @@ The I2A learns to combine information from its model-free and imagination-augmen
   - Diversity is All You Need: Learning Skills without a Reward Function   https://github.com/haarnoja/sac   https://sites.google.com/view/diayn  Soft Actor-Critic  rlkit TDM https://github.com/vitchyr/rlkit
   - https://arxiv.org/abs/1805.07917 Evolutionary Reinforcement Learning Shauharda Khadka, Kagan Tumer (Submitted on 21 May 2018)
   - Disentangling the independently controllable factors of variation by interacting with the world https://arxiv.org/abs/1802.09484  Disentangling Controllable and Uncontrollable Factors of Variation by Interacting with the World https://arxiv.org/abs/1804.06955
+  - Hierarchical Reinforcement Learning with Hindsight https://arxiv.org/abs/1805.08180
