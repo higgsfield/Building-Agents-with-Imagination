@@ -61,3 +61,5 @@ The I2A learns to combine information from its model-free and imagination-augmen
   - https://arxiv.org/abs/1805.07917 Evolutionary Reinforcement Learning Shauharda Khadka, Kagan Tumer (Submitted on 21 May 2018)
   - Disentangling the independently controllable factors of variation by interacting with the world https://arxiv.org/abs/1802.09484  Disentangling Controllable and Uncontrollable Factors of Variation by Interacting with the World https://arxiv.org/abs/1804.06955
   - Hierarchical Reinforcement Learning with Hindsight https://arxiv.org/abs/1805.08180
+  - Generalisation of structural knowledge in the Hippocampal-Entorhinal system  https://www.groundai.com/project/generalisation-of-structural-knowledge-in-the-hippocampal-entorhinal-system/
+  - 
