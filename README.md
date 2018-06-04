@@ -43,7 +43,7 @@ The I2A learns to combine information from its model-free and imagination-augmen
   - [[https://github.com/pathak22/zeroshot-imitation]](https://github.com/pathak22/zeroshot-imitation)
   - [[Emergence of Structured Behaviors from Curiosity-Based Intrinsic Motivation]](https://arxiv.org/abs/1802.07461)
   - [[Learning Awareness Models]](https://arxiv.org/abs/1804.06318)
-  - [[NervanaSystem coach]](https://github.com/NervanaSystems/coach)
+  - ray-project
   - [[Vector-based navigation using grid-like representations in artificial agents]](https://pan.baidu.com/s/1RUzMKQb95qUf5cv6XRsexA)
   - Learning to Navigate in Cities Without a Map [[arxiv]](https://arxiv.org/abs/1804.00168) [[https://zhuanlan.zhihu.com/p/35319354]](https://zhuanlan.zhihu.com/p/35319354)  
   - [[Emergence of grid-like representations by training recurrent neural networks to perform spatial localization]](https://openreview.net/forum?id=B17JTOe0-)
@@ -62,4 +62,6 @@ The I2A learns to combine information from its model-free and imagination-augmen
   - Disentangling the independently controllable factors of variation by interacting with the world https://arxiv.org/abs/1802.09484  Disentangling Controllable and Uncontrollable Factors of Variation by Interacting with the World https://arxiv.org/abs/1804.06955
   - Hierarchical Reinforcement Learning with Hindsight https://arxiv.org/abs/1805.08180
   - Generalisation of structural knowledge in the Hippocampal-Entorhinal system  https://www.groundai.com/project/generalisation-of-structural-knowledge-in-the-hippocampal-entorhinal-system/
-  - 
+  - Sensorimotor Robot Policy Training using Reinforcement Learning https://www.diva-portal.org/smash/get/diva2:1208897/FULLTEXT01.pdf 
+  - ray-project 
+  - https://www.groundai.com/project/understanding-disentangling-in-vae/
