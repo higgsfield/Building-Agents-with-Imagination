@@ -65,3 +65,7 @@ The I2A learns to combine information from its model-free and imagination-augmen
   - Sensorimotor Robot Policy Training using Reinforcement Learning https://www.diva-portal.org/smash/get/diva2:1208897/FULLTEXT01.pdf 
   - ray-project 
   - https://www.groundai.com/project/understanding-disentangling-in-vae/
+
+  - Divide-and-Conquer Reinforcement Learning https://arxiv.org/abs/1711.09874
+  - Diversity is All You Need: Learning Skills without a Reward Function  https://sites.google.com/view/diayn  https://github.com/haarnoja/sac/blob/master/DIAYN.md
+  
