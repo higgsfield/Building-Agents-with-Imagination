@@ -67,5 +67,4 @@ The I2A learns to combine information from its model-free and imagination-augmen
   - https://www.groundai.com/project/understanding-disentangling-in-vae/
 
   - Divide-and-Conquer Reinforcement Learning https://arxiv.org/abs/1711.09874
-  - Diversity is All You Need: Learning Skills without a Reward Function  https://sites.google.com/view/diayn  https://github.com/haarnoja/sac/blob/master/DIAYN.md
-  
+  -  https://www.groundai.com/project/data-efficient-hierarchical-reinforcement-learning/  
