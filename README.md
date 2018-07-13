@@ -68,3 +68,4 @@ The I2A learns to combine information from its model-free and imagination-augmen
 
   - Divide-and-Conquer Reinforcement Learning https://arxiv.org/abs/1711.09874
   -  https://www.groundai.com/project/data-efficient-hierarchical-reinforcement-learning/  
+  - https://github.com/openai/glow
