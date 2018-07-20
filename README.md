@@ -71,3 +71,4 @@ The I2A learns to combine information from its model-free and imagination-augmen
   - https://github.com/openai/glow
   - https://github.com/ml-jku/baselines-rudder
   - https://github.com/ashedwards/ILPO 
+  - https://github.com/musyoku/generative-query-network
