@@ -73,4 +73,4 @@ The I2A learns to combine information from its model-free and imagination-augmen
   - https://github.com/ashedwards/ILPO 
   - https://github.com/musyoku/generative-query-network
   - https://github.com/ermongroup/Variational-Ladder-Autoencoder  Learning Hierarchical Features from Generative Models
-  
+  - https://www.groundai.com/project/unsupervised-learning-of-latent-physical-properties-using-perception-prediction-networks/  
