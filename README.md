@@ -75,4 +75,4 @@ The I2A learns to combine information from its model-free and imagination-augmen
   - https://github.com/ermongroup/Variational-Ladder-Autoencoder  Learning Hierarchical Features from Generative Models
   - https://www.groundai.com/project/unsupervised-learning-of-latent-physical-properties-using-perception-prediction-networks/ 
   - Learning models for visual 3D localization with implicit mapping  https://arxiv.org/abs/1807.03149
- 
+  - Representation Learning with Contrastive Predictive Coding https://arxiv.org/pdf/1807.03748.pdf
