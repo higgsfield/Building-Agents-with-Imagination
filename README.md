@@ -79,3 +79,5 @@ The I2A learns to combine information from its model-free and imagination-augmen
   - https://www.groundai.com/project/deep-hidden-physics-models-deep-learning-of-nonlinear-partial-differential-equations/
   - https://www.groundai.com/project/unsupervised-learning-of-latent-physical-properties-using-perception-prediction-networks/
   - Discovering physical concepts with neural networks  https://arxiv.org/pdf/1807.10300.pdf
+  - https://www.groundai.com/project/disentangling-by-partitioning-a-representation-learning-framework-for-multimodal-sensory-data/
+  - https://www.groundai.com/project/a-deep-generative-model-for-disentangled-representations-of-sequential-data/
