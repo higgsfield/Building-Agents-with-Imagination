@@ -81,3 +81,10 @@ The I2A learns to combine information from its model-free and imagination-augmen
   - Discovering physical concepts with neural networks  https://arxiv.org/pdf/1807.10300.pdf
   - https://www.groundai.com/project/disentangling-by-partitioning-a-representation-learning-framework-for-multimodal-sensory-data/
   - https://www.groundai.com/project/a-deep-generative-model-for-disentangled-representations-of-sequential-data/
+  
+  
+  ------------------
+  
+  
+  - https://www.groundai.com/project/temporal-difference-variational-auto-encoder/
+  - https://www.groundai.com/project/consistent-generative-query-networks/  gqn-video
