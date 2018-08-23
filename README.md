@@ -104,4 +104,4 @@ The I2A learns to combine information from its model-free and imagination-augmen
   - https://www.groundai.com/project/temporal-difference-variational-auto-encoder/
   - https://www.groundai.com/project/consistent-generative-query-networks/  gqn-video
 - Isolating Sources of Disentanglement in Variational Autoencoders https://arxiv.org/pdf/1802.04942.pdf  https://github.com/rtqichen/beta-tcvae
-- 
+- Replicating "Understanding disentangling in β-VAE"  https://github.com/miyosuda/disentangled_vae
