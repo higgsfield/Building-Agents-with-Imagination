@@ -107,3 +107,4 @@ The I2A learns to combine information from its model-free and imagination-augmen
 - Replicating "Understanding disentangling in β-VAE"  https://github.com/miyosuda/disentangled_vae
 - Unsupervised Learning of Disentangled and Interpretable Representations  from Sequential Data  https://github.com/wnhsu/FactorizedHierarchicalVAE
 - Learning deep representations by mutual information estimation and maximization https://arxiv.org/abs/1808.06670  https://github.com/rdevon/DIM
+- https://arxiv.org/pdf/1804.02086.pdf  Structured Disentangled Representations 
