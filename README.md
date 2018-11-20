@@ -109,3 +109,20 @@ The I2A learns to combine information from its model-free and imagination-augmen
 - Unsupervised Learning of Disentangled and Interpretable Representations  from Sequential Data  https://github.com/wnhsu/FactorizedHierarchicalVAE
 - Learning deep representations by mutual information estimation and maximization https://arxiv.org/abs/1808.06670  https://github.com/rdevon/DIM
 - https://arxiv.org/pdf/1804.02086.pdf  Structured Disentangled Representations 
+
+- Formal Limitations on the Measurement of Mutual Information https://arxiv.org/abs/1811.04251
+
+- FutureGAN: Anticipating the Future Frames of Video Sequences using Spatio-Temporal 3d Convolutions in Progressively Growing Autoencoder GANs  https://arxiv.org/abs/1810.01325
+
+- Learning Latent Dynamics for Planning from Pixels https://arxiv.org/pdf/1811.04551.pdf
+
+- Towards Governing Agent’s Efficacy:Action-Conditional β -VAE for Deep Transparent Reinforcement Learning   https://arxiv.org/pdf/1811.04350.pdf
+
+- Improving Generalization for Abstract Reasoning Tasks Using Disentangled Feature Representations https://arxiv.org/pdf/1811.04784.pdf
+
+- Pay attention! - Robustifying a Deep Visuomotor Policy through Task-Focused Attention https://arxiv.org/abs/1809.10093
+
+- Unsupervised Emergence of Spatial Structure from Sensorimotor Prediction https://arxiv.org/abs/1810.01344
+
+Hybrid Active Inference  https://arxiv.org/abs/1810.02647
+    We describe a framework of hybrid cognition by formulating a hybrid cognitive agent that performs hierarchical active inference across a human and a machine part. We suggest that, in addition to enhancing human cognitive functions with an intelligent and adaptive interface, integrated cognitive processing could accelerate emergent properties within artificial intelligence. To establish this, a machine learning part learns to integrate into human cognition by explaining away multi-modal sensory measurements from the environment and physiology simultaneously with the brain signal. With ongoing training, the amount of predictable brain signal increases. This lends the agent the ability to self-supervise on increasingly high levels of cognitive processing in order to further minimize surprise in predicting the brain signal. Furthermore, with increasing level of integration, the access to sensory information about environment and physiology is substituted with access to their representation in the brain. While integrating into a joint embodiment of human and machine, human action and perception are treated as the machine's own. The framework can be implemented with invasive as well as non-invasive sensors for environment, body and brain interfacing. Online and offline training with different machine learning approaches are thinkable. Building on previous research on shared representation learning, we suggest a first implementation leading towards hybrid active inference with non-invasive brain interfacing and state of the art probabilistic deep learning methods. We further discuss how implementation might have effect on the meta-cognitive abilities of the described agent and suggest that with adequate implementation the machine part can continue to execute and build upon the learned cognitive processes autonomously. 
